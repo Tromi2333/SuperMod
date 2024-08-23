@@ -1,0 +1,24 @@
+{
+  "item.supermod.raw_super": "含有杂质的超级矿石",
+  "item.supermod.super_ingot": "超级锭",
+
+  "item.supermod.super_axe": "超级斧",
+  "item.supermod.super_hoe": "超级锄",
+  "item.supermod.super_pickaxe": "超级镐",
+  "item.supermod.super_shovel": "超级铲",
+  "item.supermod.super_sword": "超级剑",
+  "item.supermod.gunpowder_sword": "火药剑",
+
+  "item.supermod.super_helmet": "超级头盔",
+  "item.supermod.super_chestplate": "超级胸甲",
+  "item.supermod.super_leggings": "超级护腿",
+  "item.supermod.super_boots": "超级靴子",
+
+
+  "block.supermod.super_ore": "超级矿石",
+  "block.supermod.super_block": "超级块",
+
+  "effect.supermod.gunpowder": "火药味",
+
+  "itemGroup.supermod": "超级模组"
+}

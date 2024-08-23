@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU General Public License v3.0"
+[[mods]]
+modId="supermod"
+version="1.0"
+displayName="Super Mod"
+logoFile="SuperMod.png"
+credits="Thanks for downloading this mod"
+authors="Tromi2333,QGH2024"
+description='''
+My first mod.
+Tromi2333
+'''
+[[dependencies.supermod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.supermod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

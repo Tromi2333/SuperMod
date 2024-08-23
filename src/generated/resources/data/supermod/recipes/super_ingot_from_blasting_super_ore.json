@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "supermod:super_ore"
+  },
+  "result": "supermod:super_ingot",
+  "experience": 5,
+  "cookingtime": 300
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "supermod:super_block"
+    }
+  ],
+  "result": {
+    "item": "supermod:super_ingot",
+    "count": 9
+  }
+}

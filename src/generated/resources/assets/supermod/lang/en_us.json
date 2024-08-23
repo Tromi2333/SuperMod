@@ -1,0 +1,24 @@
+{
+  "item.supermod.raw_super": "Raw Super",
+  "item.supermod.super_ingot": "Super Ingot",
+
+  "item.supermod.super_axe": "Super Axe",
+  "item.supermod.super_hoe": "Super Hoe",
+  "item.supermod.super_pickaxe": "Super Pickaxe",
+  "item.supermod.super_shovel": "Super Shovel",
+  "item.supermod.super_sword": "Super Sword",
+  "item.supermod.gunpowder_sword": "Gunpowder Sword",
+
+  "item.supermod.super_helmet": "Super Helmet",
+  "item.supermod.super_chestplate": "Super Chestplate",
+  "item.supermod.super_leggings": "Super Leggings",
+  "item.supermod.super_boots": "Super Boots",
+
+
+  "block.supermod.super_block": "Super Block",
+  "block.supermod.super_ore": "Super Ore",
+
+  "effects.supermod.gunpowder": "Gunpowder",
+
+  "itemGroup.supermod": "Super Mod"
+}
